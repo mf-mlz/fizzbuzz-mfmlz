@@ -27,7 +27,7 @@ Fizzbuzz test done with JavaScript
 
 - **Cloud Hosting**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=netlifly)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=netlify)](https://skills.thijs.gg)
 
 <br>
 
