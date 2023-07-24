@@ -20,7 +20,7 @@ Fizzbuzz test done with JavaScript
     
 - **Front-End Development**:
 
-  [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,angular,jquery,tailwind,bootstrap )](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg)
 
 <br>
 
